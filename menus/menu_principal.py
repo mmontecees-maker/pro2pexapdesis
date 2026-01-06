@@ -1,0 +1,11 @@
+def mostrar_menu_principal():
+    print("==========================================")
+    print("      SISTEMA DE GESTIÓN - SPA")
+    print("==========================================")
+    print("  1. CLIENTES")
+    print("  2. EMPLEADOS")
+    print("  3. SERVICIOS")
+    print("  4. CITAS (Y DETALLE CITA)")
+    print("  5. PAGOS")
+    print("  6. REPORTES")
+    print("  7. SALIR")
